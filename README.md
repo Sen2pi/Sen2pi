@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Sen2pi
 - 👀 I’m interested in Java programming , on road to become a java Developer , HOPE I'M ABLE TO .
-- 🌱 I’m currently learning AT RUMOS GETTING CERTIFIED
-- 💞️ I’m looking to collaborate on JAVA PROJECTS.
+- 🌱 I’m JAVA OCP JE11
+- 🌱 Currently in Degree of Computer Science.
+- 💞️ I’m looking to collaborate on PROJECTS.
 - 📫 How to reach me dr.karim.patatas@gmail.com
 
 <!---
