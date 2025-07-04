@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Sen2pi<br>- 👀 I’m interested in  programming . <br>- 🌱 I’m JAVA OCP JE11<br>- 🌱 Have a Degree of Computer Science.<br>- 🌱 Begun My Master in Computer Engenneer and we technologies.<br>- 💞️ I’m always looking to collaborate on PROJECTS.<br>- 📫 How to reach me dr.karim.patatas@gmail.com<br>- 📫 My portfolio at ![Portfolio](https://portfoliokarimsantos.vercel.app)
+- 👋 Hi, I’m @Sen2pi<br>- 👀 I’m interested in  programming . <br>- 🌱 I’m JAVA OCP JE11<br>- 🌱 Have a Degree of Computer Science.<br>- 🌱 Begun My Master in Computer Engenneer and we technologies.<br>- 💞️ I’m always looking to collaborate on PROJECTS.<br>- 📫 How to reach me dr.karim.patatas@gmail.com<br>- 📫 My portfolio at ![](https://portfoliokarimsantos.vercel.app)
 
 
 ## 🌐 Socials:
