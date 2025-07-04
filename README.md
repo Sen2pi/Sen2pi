@@ -1,5 +1,22 @@
-# 💫 About Me:
-- 👋 Hi, I’m @Sen2pi<br>- 👀 I’m interested in  programming . <br>- 🌱 I’m JAVA OCP JE11<br>- 🌱 Have a Degree of Computer Science.<br>- 🌱 Begun My Master in Computer Engenneer and we technologies.<br>- 💞️ I’m always looking to collaborate on PROJECTS.<br>- 📫 How to reach me dr.karim.patatas@gmail.com<br>- 📫 My portfolio at [Portfolio](https://portfoliokarimsantos.vercel.app)
+<!-- Banner or animated header (optional, can be created with tools like REHeader or github-profile-header-generator) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Karim+%7C+Sen2pi;Full-Stack+Developer+%7C+JAVA+OCP+JE11;Passionate+about+Tech+%26+Learning;Let's+build+something+great+together!" alt="Typing SVG" />
+</p>
+
+---
+
+## 👋 About Me
+
+- 🎓 **Degree:** Computer Science (Universidade da Maia)
+- 🎓 **Currently:** Master’s in Computer Engineering & Web Technologies (in progress)
+- 🏅 **Certification:** JAVA OCP JE11
+- 💻 **Passionate about:** Full-stack development, cloud, and innovative tech
+- 🤝 **Open to:** Collaboration on impactful projects
+- 🌍 **Location:** Portugal (open to remote & international opportunities)
+- 📫 **Contact:** dr.karim.patatas@gmail.com
+- 🌐 **Portfolio:** [portfoliokarimsantos.vercel.app](https://portfoliokarimsantos.vercel.app)
+
+---
 
 
 ## 🌐 Socials:
