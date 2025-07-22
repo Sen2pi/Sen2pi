@@ -49,6 +49,7 @@
 
 ## 🌱 Latest Projects
 
+- **Bloquinho:** Notion Replacement with a lot of new fonctionality , like work management(Interviews, CV's etc..) School Managemet (With the whole system like Moodle, but better .
 - **Dispatcheur-CC:** Real-time dispatching platform (React, Django, Docker)
 - **Team Depan:** Team management & support platform
 - **Portfolio:** [portfoliokarimsantos.vercel.app](https://portfoliokarimsantos.vercel.app)
