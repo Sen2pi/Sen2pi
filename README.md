@@ -9,7 +9,7 @@
 
 - 🎓 **Degree:** Computer Science (Universidade da Maia)
 - 🎓 **Currently:** Master’s in Computer Engineering & Web Technologies (in progress)
-- 🏅 **Certification:** JAVA OCP JE11
+- 🏅 **Certification:** JAVA OCP JE11, Microsoft Fullstack Developper, IBM Fullstack Developper
 - 💻 **Passionate about:** Full-stack development, cloud, and innovative tech
 - 🤝 **Open to:** Collaboration on impactful projects
 - 🌍 **Location:** Portugal (open to remote & international opportunities)
