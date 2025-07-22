@@ -21,7 +21,7 @@
 ## 🚀 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,django,docker,kubernetes,linux,git,figma,nginx,sql,spring,flutter,postgresql,mysql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,django,docker,kubernetes,linux,git,figma,nginx,sql,spring,postgresql,mysql" alt="Tech Stack" />
 </p>
 
 ---
